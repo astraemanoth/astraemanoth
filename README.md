@@ -4,9 +4,8 @@ I'm a full-stack developer passionate about building modern web and mobile appli
 
 ## 👀 I’m interested in
 - Full-stack development using **Node.js**, **React**, and **Next.js**  
-- **WordPress**, **PrestaShop**, and **JTL-Shop** customizations  
-- **Flutter** and **Android Studio** mobile app development  
-- **Automation workflows** using **n8n** and **Power Automate**
+- **WordPress**,and **PrestaShop** customizations  
+- **Flutter** and **Android Studio** mobile app development   
 
 ## 🌱 I’m currently learning
 - Advanced automation with **n8n** and **Power Automate**  
