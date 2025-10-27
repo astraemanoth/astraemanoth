@@ -1,11 +1,20 @@
 # 👋 Hi, I’m Manolo Jumalon  
 
-I'm a full-stack developer passionate about building modern web and mobile applications. I love exploring technologies around the JavaScript ecosystem and automation tools that make development faster and smarter.  
+I'm a full-stack developer passionate about building modern web and mobile applications. I love exploring technologies around the JavaScript ecosystem, PHP development, and automation tools that make development faster and smarter.  
  
  
 ## 💞️  Willing to collaborate on
-- Web or mobile projects built with **Node.js**, **React**,**android studio**  or **Flutter**  
-- **E-commerce** solutions 
+= 🌐 Web Development
+- **Node.js**
+- **PHP Composer**
+- **React**
+- **WordPress**
+- **PrestaShop**
+
+- 📱 Mobile Development
+- **PrestaShop**
+- **Flutter** 
+- **Android Studio**
 
 ## 📫 How to reach me
 📧 Email: **manolojumalon1994@gmail.com**    
