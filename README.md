@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Manolo Jumalon**
 
 I'm a full-stack developer passionate about building modern web and mobile applications.  
-I love exploring technologies around the JavaScript ecosystem, PHP development, and automation tools that make development faster and smarter.
+I love exploring technologies around the JavaScript ecosystem, PHP development  that make development faster and smarter.
 
 ---
 
