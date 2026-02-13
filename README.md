@@ -5,8 +5,7 @@ I love exploring technologies around the JavaScript ecosystem, PHP development, 
 
 ---
 
-## 💞️ Willing to Collaborate On
-
+ 
 ### 🌐 **Web Development**
 - **JS/TS (Node, React, Next)**
 - **PHP Composer** 
