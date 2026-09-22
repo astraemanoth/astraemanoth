@@ -72,11 +72,7 @@ Passionate about modern web technologies, workflow automation, document processi
  ---
  
 ### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=astraemanoth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manolo's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=astraemanoth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+ 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=astraemanoth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
