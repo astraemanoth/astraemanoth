@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Manolo Jumalon**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manolojumalon1994&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=astraemanoth&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Experience-7%2B%20Years-blue?style=flat-square" alt="Experience" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20E--Commerce%20%7C%20Automation-success?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Philippines-orange?style=flat-square" alt="Location" />
