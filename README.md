@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Location-Philippines-orange?style=flat-square" alt="Location" />
 </p>
 
-Senior Full Stack Developer with **7+ years of professional experience** architecting and building high-performance web applications, robust e-commerce platforms, business systems (POS & inventory), and end-to-end automation pipelines.
+Senior Full Stack Developer with **professional experience** architecting and building high-performance web applications, robust e-commerce platforms, business systems (POS & inventory), and end-to-end automation pipelines.
 
 Passionate about modern web technologies, workflow automation, document processing engines, and secure cloud infrastructure.
 
